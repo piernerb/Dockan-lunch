@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE62DD4C-C040-4EE7-B992-3D40F00DBF2A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dockan lunch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</key>
+		<string>ssh://github.com/piernerb/Dockan-lunch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dockan lunch/Dockan lunch.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/piernerb/Dockan-lunch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dockan-lunch</string>
+		</dict>
+	</array>
+</dict>
+</plist>

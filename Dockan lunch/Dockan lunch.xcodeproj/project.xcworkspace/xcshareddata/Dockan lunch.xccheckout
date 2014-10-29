@@ -10,22 +10,26 @@
 	<string>Dockan lunch</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>77C6E214F4E4751F5765B3ABA11F88C4D2B679DC</key>
+		<string>github.com:piernerb/Dockan-lunch.git</string>
 		<key>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</key>
 		<string>ssh://github.com/piernerb/Dockan-lunch.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Dockan lunch/Dockan lunch.xcodeproj/project.xcworkspace</string>
+	<string>Dockan lunch/Dockan lunch.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</key>
+		<key>77C6E214F4E4751F5765B3ABA11F88C4D2B679DC</key>
 		<string>../../..</string>
+		<key>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</key>
+		<string>../../../../Dockan-lunch</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/piernerb/Dockan-lunch.git</string>
+	<string>github.com:piernerb/Dockan-lunch.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</string>
+	<string>77C6E214F4E4751F5765B3ABA11F88C4D2B679DC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>CFEB055A-45F1-4C9D-B592-5D4FF74736FC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Dockan-lunch</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>77C6E214F4E4751F5765B3ABA11F88C4D2B679DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>qwe</string>
 		</dict>
 	</array>
 </dict>

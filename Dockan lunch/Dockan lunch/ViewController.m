@@ -117,27 +117,27 @@
         
         if ([[self.restaurantArray objectAtIndex:indexPath.row-1] isEqualToString:@"P2"]) {
             UIImageView *logo = (UIImageView *)[cell viewWithTag:3];
-            [logo setImage:[UIImage imageNamed:@"p2"]];
+            [logo setImage:[UIImage imageNamed:@"P2"]];
         }
         else if ([[self.restaurantArray objectAtIndex:indexPath.row-1] isEqualToString:@"Årstiderna"]) {
             UIImageView *logo = (UIImageView *)[cell viewWithTag:3];
-            [logo setImage:[UIImage imageNamed:@"arstiderna"]];
+            [logo setImage:[UIImage imageNamed:@"Arstiderna"]];
         }
         else if ([[self.restaurantArray objectAtIndex:indexPath.row-1] isEqualToString:@"M.E.C.K"]) {
             UIImageView *logo = (UIImageView *)[cell viewWithTag:3];
-            [logo setImage:[UIImage imageNamed:@"meck"]];
+            [logo setImage:[UIImage imageNamed:@"Meck"]];
         }
         else if ([[self.restaurantArray objectAtIndex:indexPath.row-1] isEqualToString:@"Stereo"]) {
             UIImageView *logo = (UIImageView *)[cell viewWithTag:3];
-            [logo setImage:[UIImage imageNamed:@"stereo"]];
+            [logo setImage:[UIImage imageNamed:@"Stereo"]];
         }
         else if ([[self.restaurantArray objectAtIndex:indexPath.row-1] isEqualToString:@"Glasklart"]) {
             UIImageView *logo = (UIImageView *)[cell viewWithTag:3];
-            [logo setImage:[UIImage imageNamed:@"glasklart"]];
+            [logo setImage:[UIImage imageNamed:@"Glasklart"]];
         }
         else if ([[self.restaurantArray objectAtIndex:indexPath.row-1] isEqualToString:@"Akvariet"]) {
             UIImageView *logo = (UIImageView *)[cell viewWithTag:3];
-            [logo setImage:[UIImage imageNamed:@"akvariet"]];
+            [logo setImage:[UIImage imageNamed:@"Akvariet"]];
         }
         else {
             restaurantLabel.text = [_restaurantArray objectAtIndex:indexPath.row];
